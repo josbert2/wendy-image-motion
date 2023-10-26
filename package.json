@@ -1,0 +1,24 @@
+{
+  "name": "motiontrailanimations",
+  "version": "1.0.0",
+  "description": "Some ideas for mouse/touch responsive image animations.",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codrops/MotionTrailAnimations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codrops/MotionTrailAnimations/issues"
+  },
+  "homepage": "https://github.com/codrops/MotionTrailAnimations#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
